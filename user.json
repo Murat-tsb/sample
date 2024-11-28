@@ -1,0 +1,72 @@
+[
+    {
+        "name": "John",
+        "surname": "Doe",
+        "email": "john.doe@example.com",
+        "phoneNumber": "1234567890",
+        "homeAddress": "123 Main Street, Springfield"
+    },
+    {
+        "name": "Jane",
+        "surname": "Smith",
+        "email": "jane.smith@example.com",
+        "phoneNumber": "9876543210",
+        "homeAddress": "456 Elm Street, Springfield"
+    },
+    {
+        "name": "Alice",
+        "surname": "Johnson",
+        "email": "alice.johnson@example.com",
+        "phoneNumber": "5551234567",
+        "homeAddress": "789 Oak Avenue, Springfield"
+    },
+    {
+        "name": "Bob",
+        "surname": "Brown",
+        "email": "bob.brown@example.com",
+        "phoneNumber": "4449876543",
+        "homeAddress": "321 Maple Drive, Springfield"
+    },
+    {
+        "name": "Charlie",
+        "surname": "Wilson",
+        "email": "charlie.wilson@example.com",
+        "phoneNumber": "6667891234",
+        "homeAddress": "654 Pine Road, Springfield"
+    },
+    {
+        "name": "Emily",
+        "surname": "Davis",
+        "email": "emily.davis@example.com",
+        "phoneNumber": "7774567890",
+        "homeAddress": "987 Birch Lane, Springfield"
+    },
+    {
+        "name": "David",
+        "surname": "Martinez",
+        "email": "david.martinez@example.com",
+        "phoneNumber": "8881239876",
+        "homeAddress": "159 Cedar Court, Springfield"
+    },
+    {
+        "name": "Sophia",
+        "surname": "Garcia",
+        "email": "sophia.garcia@example.com",
+        "phoneNumber": "2226547891",
+        "homeAddress": "753 Willow Way, Springfield"
+    },
+    {
+        "name": "James",
+        "surname": "Lee",
+        "email": "james.lee@example.com",
+        "phoneNumber": "3339871234",
+        "homeAddress": "369 Poplar Street, Springfield"
+    },
+    {
+        "name": "Isabella",
+        "surname": "Anderson",
+        "email": "isabella.anderson@example.com",
+        "phoneNumber": "9991236547",
+        "homeAddress": "852 Chestnut Circle, Springfield"
+    }
+]
