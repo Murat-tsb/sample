@@ -1,0 +1,18 @@
+{
+  "productionMode": false,
+  "eagerServerLoad": false,
+  "npmFolder": "C:\\Users\\201332\\Desktop\\Docs\\sample",
+  "node.version": "v20.18.0",
+  "node.download.root": "https://nodejs.org/dist/",
+  "frontendFolder": "C:\\Users\\201332\\Desktop\\Docs\\sample\\.\\src\\main\\frontend",
+  "connect.javaSourceFolder": "C:\\Users\\201332\\Desktop\\Docs\\sample\\src\\main\\java",
+  "javaResourceFolder": "C:\\Users\\201332\\Desktop\\Docs\\sample\\src\\main\\resources",
+  "connect.applicationProperties": "C:\\Users\\201332\\Desktop\\Docs\\sample\\src\\main\\resources\\application.properties",
+  "connect.openApiFile": "C:\\Users\\201332\\Desktop\\Docs\\sample\\build\\generated-resources\\openapi.json",
+  "project.frontend.generated": "C:\\Users\\201332\\Desktop\\Docs\\sample\\.\\src\\main\\frontend\\generated",
+  "pnpm.enable": false,
+  "bun.enable": false,
+  "require.home.node": false,
+  "build.folder": "build",
+  "react.enable": true
+}
